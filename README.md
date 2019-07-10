@@ -4,6 +4,7 @@ Configuration for samus users running chromefy. Ideally you use an Eve installat
 ### Checklist of what needs to be done 
 -[x] Touchpad adjustment
 -[x] Audio Functionality 
+-[x] Keyboard fn key mapping
 -[ ] Bluetooth
 -[ ] Chrome Flags working properly 
--[ ] GUI functionality (x or wayland either one works) 
+-[ ] GUI functionality without crostini (x or wayland either one works) 
